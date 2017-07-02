@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyLibraryAPIApplication</string>
+    <string name="title_activity_book_detail">Book Detail Activity</string>
+    <string name="title_activity_book_read">Book Read Activity</string>
+    <string name="title_activity_book_list">Book List Activity</string>
+    <string name="title_activity_book_id">Book ID Activity</string>
+    <string name="bookSearch">Title to Search</string>
+    <string name="idSearch">Search by ID</string>
+    <string name="Search">General Search</string>
+    <string name="Battery">Battery Level</string>
+    <string name="batteryLevel">Battery Level</string>
+    <string name="suggest">9780980200447</string>
+    <string name="suggest2">Please type in a key word</string>
+    <string name="bkFullList">This is the List of Books:</string>
+    <string name="bkSearchId">Search by ISBN Number:</string>
+    <string name="bkSearchGen">Search by Key Word or Phrase:</string>
+    <string name="pages">Pages: </string>
+    <string name="weight">Weight: </string>
+    <string name="notes">Notes: </string>
+    <string name="date">Pub. Date: </string>
+    <string name="key">Book Key: </string>
+</resources>
